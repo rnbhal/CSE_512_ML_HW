@@ -3,7 +3,7 @@ CSE 512 Machine Learning Assignments
 
 ## HW1
 
-## HW2
+## HW2 LOOCV Ridge Regression
 
 Q1. MLE,MAP, Estimator Bias
 
@@ -12,14 +12,14 @@ Q2. Ridge Regression and LOOCV
 Q3. Implement LOOCV Ridge Regression to Predict goodness points of a wine given its review
 
 
-## HW3
+## HW3 Logistic Regression
 
 Question 1 – Naive Bayes and Logistic Regression
 
 Question 2 – Implementation of Logistic Regression
  Your task is to classify between hand/not-hand images.
 
-## HW4
+## HW4 SVM for object detection
 
 Question 1 – Support Vector Machines
 
@@ -30,7 +30,7 @@ Question 3 – SVM for object detection
 You will train an SVM and use it for detecting human upper bodies in your favorite TV series The Big Bang Theory.
 
 
-## HW5
+## HW5 SVMs to classify scenes from The Big Bang Theory
 
 Question 1 – Boosting
 
@@ -41,7 +41,7 @@ Big Bang Theory, your favorite TV series. To classify an image, you will use Bag
 which is one of the most popular image representation. This representation views an images as the his-
 togram of image features, or visual words
 
-## HW6
+## HW6 Action recognition with CNN
 
 1 PCA via Successive Deflation
 
@@ -51,7 +51,7 @@ In this question, you will train a convolutional neural network (CNN) to classif
 Pytorch. We use the UCF101 data (see http://crcv.ucf.edu/data/UCF101.php). 
 
 
-## HW7
+## HW7 Generative Adversarial Networks (Programming) AND Action Classification Using RNN
 
 1 Manual calculation of one round of EM for a GMM
 
